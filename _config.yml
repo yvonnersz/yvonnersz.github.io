@@ -4,11 +4,11 @@ gems:
   - jekyll-paginate
 
 # Site settings
-title: "Mediator"
+title: "Yvonne"
 description: > # this means to ignore newlines until "email:"
-   A Jekyll theme - Medium inspired
+   From a chemist to a full-stack software developer. Experienced with Ruby and JavaScript based programming.
 
-email: a-mail@mail.mail
+email: yvonnersz@gmail.com
 #blog logo
 logo: "/assets/images/df_logo.jpg"
 float_logo: true # true, false (default)
@@ -16,13 +16,13 @@ float_logo: true # true, false (default)
 # blog cover
 cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
 
-name: 'Dirk Fabisch'
-author: 'Dirk Fabisch'
+name: 'Yvonne Pham'
+author: 'Yvonne Pham'
 author_image: "/assets/images/author.jpg"
 
 paginate:	5
 
-url: "http://myblog.***.***" # the base hostname & protocol for your site
+url: "http://yvonnersz.github.io" # the base hostname & protocol for your site
 baseurl: ""
 #used to display twitter cards
 twitter_handle: '@dirkfabisch'
