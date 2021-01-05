@@ -3,6 +3,13 @@ layout: post
 title:      "A Chemist Learning to Code"
 date:       2020-04-04 05:41:11 +0000
 permalink:  a_chemist_learning_to_code
+# layout: post
+# title:  "Mediator Features"
+# date:   2014-11-30 14:34:25
+# categories: mediator feature
+# tags: featured
+# image: /assets/article_images/2014-11-30-mediator_features/night-track.JPG
+# image2: /assets/article_images/2014-11-30-mediator_features/night-track-mobile.JPG
 ---
 
 
