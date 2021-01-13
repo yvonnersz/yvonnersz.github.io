@@ -11,7 +11,7 @@ tags: sass, scss
 
 ## Sass Basics
 
-As I begin my job search, there is one phrase that repeatedly comes up: Experience in Sass. So what is Sass exactly?
+As I begin my job search, there is one phrase that is repeatedly coming up: Experience in Sass. So what is Sass exactly?
 
 > Sass is the most mature, stable, and powerful professional grade CSS extension language in the world.
 
