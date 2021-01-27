@@ -1,0 +1,33 @@
+---
+layout: post
+title:      "jQuery"
+date:       2021-01-26 21:41:00 +0000
+permalink:  jQuery
+categories: tools
+tags: jQuery
+# image: /assets/article_images/2014-11-30-mediator_features/night-track.JPG
+# image2: /assets/article_images/2014-11-30-mediator_features/night-track-mobile.JPG
+---
+
+When I was coding my JavaScript project and ran into some problems, I've looked online to find some solutions. A lot of the solutions that I've happened to stumble across used jQuery. That wasn't particularly helpful for me at the time because I didn't know what jQuery was. So what exactly is jQuery? Per the official website:
+
+> jQuery is a fast, small, and feature-rich JavaScript library. It makes things like HTML document traversal and manipulation, event handling, animation, and Ajax much simpler with an easy-to-use API that works across a multitude of browsers.
+
+## jQuery History
+
+When Google Chrome was not in the scene and Internet Explorer was the number one browser, the old browsers implemented JavaScript in different ways resulting in compatibility issues. jQuery was created in 2006 and was popular because it was born in a world where JavaScript applications weren't a thing and it was used to power slideshows, image galleries, and widgets. It made JavaScript animations simple.  
+
+Since then, the Javascript language has become more mature. Libraries, such as Angular, React, and Vue came and has made jQuery look obsolete. With these technologies on our hands then, is it still worth it to learn jQuery? 
+
+## jQuery Consensus
+
+> jQuery is certainly a topic full of debate. Some people say jQuery is a relic of the past, some people still use it day to day. Some people spend their time writing about why we don’t need jQuery.
+
+Although the library is losing its grounds, it is still relevant because a lot of websites still use it. So if one ever does come across a website that uses jQuery, it would still be useful to know! Some libraries also have a dependency on jQuery, like Bootstrap.
+
+After much digging, it seems like jQuery shouldn't be used in modern browsers anymore but would still be useful to know. This is not to say that jQuery is dead because tons of websites still use jQuery. Understanding the library is still a useful skill for a front-end developer.
+
+However, don't spend the time in learning it because as long as you have a strong understanding of pure JavaScript, learning jQuery shouldn't be a big issue if you should ever face a situation where you need to understand it. 
+
+Hope this helps,
+Yvonne
