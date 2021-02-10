@@ -1,10 +1,10 @@
 ---
 layout: post
-title:      "CSS: Box-Sizing Properties"
+title:      "CSS: Box-Model"
 date:       2021-02-02 21:41:00 +0000
-permalink:  css_box_sizing_properties
+permalink:  css_box_model
 categories: tools
-tags: sass, scss
+tags: css, box-model
 # image: /assets/article_images/2014-11-30-mediator_features/night-track.JPG
 # image2: /assets/article_images/2014-11-30-mediator_features/night-track-mobile.JPG
 ---
