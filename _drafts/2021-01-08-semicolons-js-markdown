@@ -1,0 +1,31 @@
+ Semi-colons are optional in Javascript, but omitting them can lead to dire consequences on rare occasions.
+
+ The TL;DR on this is that the vast majority of the time semicolons are not needed in JavaScript, and the other times their absence will completely fuck up the code and make bugs that are unpredictable and impossible to debug because you "thought it looked better". 
+
+ Seriously, semicolons don't just indicate a line end to the interpreter. The interpreter can (most of the time) correctly "insert" them. But your colleagues can't. Don't make your code any harder to read than it has to be.
+
+ ```
+const letters = ['a', 'b', 'c', 'd'];
+const newLetters = array.filter(letter => letters !== 'd')
+  .map(letter => letter.toUppercase())
+  .reverse();
+ ```
+
+ I would argue that inserting semicolons (or setting up prettier to do it for you) is better because you only need to remember one rule - insert a semicolon after a statement. This makes it easier for new collaborators/team members to jump into the code base.
+
+ But there's a few edge cases which can cause weird bugs if you don't. They're rare, but my point of view is that this message has taken longer to read, think about, and respond to than all of the semicolon's I've written in the past year have added to my coding time, so why bother thinking about it? Get in the habit of using them subconsciously, and never wonder about whether you're going to run into the error conditions.
+
+Semicolons in JavaScript divide the community. Some prefer to use them always, no matter what. Others like to avoid them.
+
+When there is a place where a semicolon was needed, it adds it behind the scenes.
+
+The process that does this is called Automatic Semicolon Insertion.
+
+When to use semicolon:
+
+when the next line starts with code that breaks the current one (code can spawn on multiple lines)
+when the next line starts with a }, closing the current block
+when there is a return statement on its own line
+when there is a break statement on its own line
+when there is a throw statement on its own line
+when there is a continue statement on its own line

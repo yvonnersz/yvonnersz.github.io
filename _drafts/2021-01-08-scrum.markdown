@@ -1,0 +1,20 @@
+What is scrum?
+
+> Basically, scrum is about:
+- delivering the smallest usable features possible, as often as possible
+- keeping team members aware of what is being delivered
+- responding quickly to new changes or data
+
+> SCRUM is a way to develop a product by breaking it into easy to manage chunks. The team can be broken into smaller groups to focus on individual chunks. Scrum involves planning and estimating workloads, and then trying to achieve those estimated goals.
+
+The work cycle is called a sprint. Before the sprint begins an estimate and 'sprint backlog' is created. A sprint backlog is a lost of features that are to be included in the finished product.
+
+A sprint is typically 2-4 weeks. Within each sprint, the team works towards a potentially shippable product. This means that at the end of each sprint there should be a working piece of software.
+
+Scrum is an agile way to manage a project, usually software development. Agile software development with Scrum is often perceived as a methodology; but rather than viewing Scrum as methodology, think of it as a framework for managing a process.
+
+In the agile Scrum world, instead of providing complete, detailed descriptions of how everything is to be done on a project, much of it is left up to the Scrum software development team. This is because the team will know best how to solve the problem they are presented.
+
+Scrum relies on a self-organizing, cross-functional team. The scrum team is self-organizing in that there is no overall team leader who decides which person will do which task or how a problem will be solved. Those are issues that are decided by the team as a whole.
+
+And in Scrum, a team is cross functional, meaning everyone is needed to take a feature from idea to implementation.
