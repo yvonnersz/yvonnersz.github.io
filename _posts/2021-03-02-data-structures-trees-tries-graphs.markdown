@@ -29,7 +29,7 @@ When it comes to problems involving trees and/or graphs, the problems are filled
 
 Do NOT make the assumption that all trees are binary trees!
 
-Trees | Binary Trees | Binary Search Trees
+| Trees | Binary Trees | Binary Search Trees |
 |----------|----------|----------|
 Suppose you have a tree to represent phone numbers, you will use a 10-ary tree with each node consisting of 10 children | 
 Each node has up to two children | 
@@ -39,7 +39,7 @@ All left descendents are less than or equal to all right descendents.
 
 Binary trees can be complete, full, or perfect. It is rare in interviews and real life to have a perfect binary tree so do NOT assume every binary tree is perfect!!! A perfect tree will have 2^k - 1 nodes, with k being the number of levels.
 
-Complete | Full | Perfect
+| Complete | Full | Perfect |
 |----------|----------|----------|
 Every level is filled with the exception of the last node. Filled from left to right | 
 Every node has 0 or 2 children | 
@@ -49,7 +49,7 @@ A binary tree that is complete AND full.
 
 You should also be comfortable implementing the following traversals:
 
-in-order | pre-order | post-order
+| in-order | pre-order | post-order |
 |----------|----------|----------|
 Visits left branch, current node, right branch |
 Visits current node before child nodes. Root is always the first node visited |
