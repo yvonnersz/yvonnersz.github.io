@@ -31,13 +31,16 @@ const numbers = [1, 2, 3, 4, 5];
 
 ## Pros and Cons of Arrays
 
-| Pros | Cons | 
-|----------|----------|
-| - Store similar data types.
+### Pros
+- Store similar data types.
 - Iterations in arrays runs faster compared to other data structures.
-- Offers fast O(1) search if index is known. | 
-- Allocating more memory than you need can waste memory space.
-- The cost of inserting and deleting is high because the elements of an array are stored in contiguous memory locations. |
+- Offers fast O(1) search if index is known.
 
-Cheers,
+### Cons
+- Allocating more memory than you need can waste memory space.
+- The cost of inserting and deleting is high because the elements of an array are stored in contiguous memory locations.
+
+And that is it for arrays! Next week I will discuss hashes.
+
+Until then,
 Yvonne
