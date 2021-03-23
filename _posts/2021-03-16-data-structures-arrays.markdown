@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Data Structures: Arrays"
-date:       2021-03-09 21:41:00 +0000
+date:       2021-03-16 21:41:00 +0000
 permalink:  data-structures-arrays
 categories: DSA
 tags: data structures, DSA, arrays
